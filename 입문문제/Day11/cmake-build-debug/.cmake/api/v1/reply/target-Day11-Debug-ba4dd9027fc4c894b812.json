@@ -97,13 +97,6 @@
 				2,
 				3
 			]
-		},
-		{
-			"name" : "Header Files",
-			"sourceIndexes" : 
-			[
-				4
-			]
 		}
 	],
 	"sources" : 
@@ -131,11 +124,6 @@
 			"compileGroupIndex" : 0,
 			"path" : "Factorial.cpp",
 			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"path" : "Factorial.h",
-			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"
