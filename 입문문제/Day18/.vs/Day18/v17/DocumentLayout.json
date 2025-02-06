@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E2D980-19F6-485C-9EA7-7D8A4DC2F58D}|Day18.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\Sorting strings2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6E2D980-19F6-485C-9EA7-7D8A4DC2F58D}|Day18.vcxproj|solutionrelative:Sorting strings2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E2D980-19F6-485C-9EA7-7D8A4DC2F58D}|Day18.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\Bacterial growth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6E2D980-19F6-485C-9EA7-7D8A4DC2F58D}|Day18.vcxproj|solutionrelative:Bacterial growth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E2D980-19F6-485C-9EA7-7D8A4DC2F58D}|Day18.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\Determine the square number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6E2D980-19F6-485C-9EA7-7D8A4DC2F58D}|Day18.vcxproj|solutionrelative:Determine the square number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E2D980-19F6-485C-9EA7-7D8A4DC2F58D}|Day18.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\String within a string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6E2D980-19F6-485C-9EA7-7D8A4DC2F58D}|Day18.vcxproj|solutionrelative:String within a string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sorting strings2.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\Sorting strings2.cpp",
+              "RelativeDocumentMoniker": "Sorting strings2.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\Sorting strings2.cpp",
+              "RelativeToolTip": "Sorting strings2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T01:50:07.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bacterial growth.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\Bacterial growth.cpp",
+              "RelativeDocumentMoniker": "Bacterial growth.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\Bacterial growth.cpp",
+              "RelativeToolTip": "Bacterial growth.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T01:26:13.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Determine the square number.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\Determine the square number.cpp",
+              "RelativeDocumentMoniker": "Determine the square number.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\Determine the square number.cpp",
+              "RelativeToolTip": "Determine the square number.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T01:18:27.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "String within a string.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\String within a string.cpp",
+              "RelativeDocumentMoniker": "String within a string.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day18\\String within a string.cpp",
+              "RelativeToolTip": "String within a string.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T01:10:18.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
