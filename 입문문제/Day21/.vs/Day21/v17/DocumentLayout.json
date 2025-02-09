@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8C5B3C-D84D-4BE8-8773-1A6323FC1765}|Day21.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\Dictionary of Alien Languages.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA8C5B3C-D84D-4BE8-8773-1A6323FC1765}|Day21.vcxproj|solutionrelative:Dictionary of Alien Languages.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8C5B3C-D84D-4BE8-8773-1A6323FC1765}|Day21.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\Addition of hidden numbers2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA8C5B3C-D84D-4BE8-8773-1A6323FC1765}|Day21.vcxproj|solutionrelative:Addition of hidden numbers2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8C5B3C-D84D-4BE8-8773-1A6323FC1765}|Day21.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\Triangle completion conditions2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA8C5B3C-D84D-4BE8-8773-1A6323FC1765}|Day21.vcxproj|solutionrelative:Triangle completion conditions2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8C5B3C-D84D-4BE8-8773-1A6323FC1765}|Day21.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\safe zone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA8C5B3C-D84D-4BE8-8773-1A6323FC1765}|Day21.vcxproj|solutionrelative:safe zone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dictionary of Alien Languages.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\Dictionary of Alien Languages.cpp",
+              "RelativeDocumentMoniker": "Dictionary of Alien Languages.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\Dictionary of Alien Languages.cpp",
+              "RelativeToolTip": "Dictionary of Alien Languages.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T02:21:48.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle completion conditions2.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\Triangle completion conditions2.cpp",
+              "RelativeDocumentMoniker": "Triangle completion conditions2.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\Triangle completion conditions2.cpp",
+              "RelativeToolTip": "Triangle completion conditions2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T02:15:24.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "safe zone.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\safe zone.cpp",
+              "RelativeDocumentMoniker": "safe zone.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\safe zone.cpp",
+              "RelativeToolTip": "safe zone.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T02:09:53.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Addition of hidden numbers2.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\Addition of hidden numbers2.cpp",
+              "RelativeDocumentMoniker": "Addition of hidden numbers2.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC785\uBB38\uBB38\uC81C\\Day21\\Addition of hidden numbers2.cpp",
+              "RelativeToolTip": "Addition of hidden numbers2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-09T02:02:07.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
