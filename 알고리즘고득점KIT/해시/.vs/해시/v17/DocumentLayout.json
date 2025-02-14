@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BCE62-3478-4DB8-85FE-814EC433AB68}|\uD574\uC2DC.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\Best Album.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F92BCE62-3478-4DB8-85FE-814EC433AB68}|\uD574\uC2DC.vcxproj|solutionrelative:Best Album.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BCE62-3478-4DB8-85FE-814EC433AB68}|\uD574\uC2DC.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\garb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F92BCE62-3478-4DB8-85FE-814EC433AB68}|\uD574\uC2DC.vcxproj|solutionrelative:garb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BCE62-3478-4DB8-85FE-814EC433AB68}|\uD574\uC2DC.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\Phone Number List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F92BCE62-3478-4DB8-85FE-814EC433AB68}|\uD574\uC2DC.vcxproj|solutionrelative:Phone Number List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BCE62-3478-4DB8-85FE-814EC433AB68}|\uD574\uC2DC.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\Athletes who failed to finish.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F92BCE62-3478-4DB8-85FE-814EC433AB68}|\uD574\uC2DC.vcxproj|solutionrelative:Athletes who failed to finish.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92BCE62-3478-4DB8-85FE-814EC433AB68}|\uD574\uC2DC.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\Ponkemon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F92BCE62-3478-4DB8-85FE-814EC433AB68}|\uD574\uC2DC.vcxproj|solutionrelative:Ponkemon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Best Album.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\Best Album.cpp",
+              "RelativeDocumentMoniker": "Best Album.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\Best Album.cpp",
+              "RelativeToolTip": "Best Album.cpp",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T01:20:22.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "garb.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\garb.cpp",
+              "RelativeDocumentMoniker": "garb.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\garb.cpp",
+              "RelativeToolTip": "garb.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T01:15:56.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Phone Number List.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\Phone Number List.cpp",
+              "RelativeDocumentMoniker": "Phone Number List.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\Phone Number List.cpp",
+              "RelativeToolTip": "Phone Number List.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T01:12:29.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Athletes who failed to finish.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\Athletes who failed to finish.cpp",
+              "RelativeDocumentMoniker": "Athletes who failed to finish.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\Athletes who failed to finish.cpp",
+              "RelativeToolTip": "Athletes who failed to finish.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T01:06:09.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ponkemon.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\Ponkemon.cpp",
+              "RelativeDocumentMoniker": "Ponkemon.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD574\uC2DC\\Ponkemon.cpp",
+              "RelativeToolTip": "Ponkemon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-14T01:02:27.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
