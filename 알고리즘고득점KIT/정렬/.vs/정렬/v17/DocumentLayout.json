@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC815\uB82C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{188D6BB9-C92E-4A66-B541-B6EAE8C5EBA5}|\uC815\uB82C.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC815\uB82C\\H-Index.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{188D6BB9-C92E-4A66-B541-B6EAE8C5EBA5}|\uC815\uB82C.vcxproj|solutionrelative:H-Index.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188D6BB9-C92E-4A66-B541-B6EAE8C5EBA5}|\uC815\uB82C.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC815\uB82C\\The largest number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{188D6BB9-C92E-4A66-B541-B6EAE8C5EBA5}|\uC815\uB82C.vcxproj|solutionrelative:The largest number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188D6BB9-C92E-4A66-B541-B6EAE8C5EBA5}|\uC815\uB82C.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC815\uB82C\\Kth number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{188D6BB9-C92E-4A66-B541-B6EAE8C5EBA5}|\uC815\uB82C.vcxproj|solutionrelative:Kth number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "H-Index.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC815\uB82C\\H-Index.cpp",
+              "RelativeDocumentMoniker": "H-Index.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC815\uB82C\\H-Index.cpp",
+              "RelativeToolTip": "H-Index.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T00:59:57.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "The largest number.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC815\uB82C\\The largest number.cpp",
+              "RelativeDocumentMoniker": "The largest number.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC815\uB82C\\The largest number.cpp",
+              "RelativeToolTip": "The largest number.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T00:54:38.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kth number.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC815\uB82C\\Kth number.cpp",
+              "RelativeDocumentMoniker": "Kth number.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC815\uB82C\\Kth number.cpp",
+              "RelativeToolTip": "Kth number.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T00:44:52.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Vowel dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|solutionrelative:Vowel dictionary.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Dividing the power grid in two.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|solutionrelative:Dividing the power grid in two.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Fatigue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|solutionrelative:Fatigue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Carpet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|solutionrelative:Carpet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Find the prime number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|solutionrelative:Find the prime number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Mock exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|solutionrelative:Mock exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Minimum rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6E0706E4-ECF7-4484-8E31-3790D80C5866}|\uC644\uC804\uD0D0\uC0C9.vcxproj|solutionrelative:Minimum rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vowel dictionary.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Vowel dictionary.cpp",
+              "RelativeDocumentMoniker": "Vowel dictionary.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Vowel dictionary.cpp",
+              "RelativeToolTip": "Vowel dictionary.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T02:51:54.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dividing the power grid in two.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Dividing the power grid in two.cpp",
+              "RelativeDocumentMoniker": "Dividing the power grid in two.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Dividing the power grid in two.cpp",
+              "RelativeToolTip": "Dividing the power grid in two.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T02:43:23.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fatigue.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Fatigue.cpp",
+              "RelativeDocumentMoniker": "Fatigue.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Fatigue.cpp",
+              "RelativeToolTip": "Fatigue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T02:38:02.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carpet.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Carpet.cpp",
+              "RelativeDocumentMoniker": "Carpet.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Carpet.cpp",
+              "RelativeToolTip": "Carpet.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T02:33:57.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Find the prime number.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Find the prime number.cpp",
+              "RelativeDocumentMoniker": "Find the prime number.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Find the prime number.cpp",
+              "RelativeToolTip": "Find the prime number.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T02:27:06.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mock exam.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Mock exam.cpp",
+              "RelativeDocumentMoniker": "Mock exam.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Mock exam.cpp",
+              "RelativeToolTip": "Mock exam.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T02:18:23.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Minimum rectangle.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Minimum rectangle.cpp",
+              "RelativeDocumentMoniker": "Minimum rectangle.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uC644\uC804\uD0D0\uC0C9\\Minimum rectangle.cpp",
+              "RelativeToolTip": "Minimum rectangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T02:05:28.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
