@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9FF13A-91CB-43C7-9BB4-71ED8D7B8D22}|\uD0D0\uC695\uBC95.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\Speed \u200B\u200Bcamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D9FF13A-91CB-43C7-9BB4-71ED8D7B8D22}|\uD0D0\uC695\uBC95.vcxproj|solutionrelative:Speed \u200B\u200Bcamera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9FF13A-91CB-43C7-9BB4-71ED8D7B8D22}|\uD0D0\uC695\uBC95.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\Connecting Islands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D9FF13A-91CB-43C7-9BB4-71ED8D7B8D22}|\uD0D0\uC695\uBC95.vcxproj|solutionrelative:Connecting Islands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9FF13A-91CB-43C7-9BB4-71ED8D7B8D22}|\uD0D0\uC695\uBC95.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\lifeboat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D9FF13A-91CB-43C7-9BB4-71ED8D7B8D22}|\uD0D0\uC695\uBC95.vcxproj|solutionrelative:lifeboat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9FF13A-91CB-43C7-9BB4-71ED8D7B8D22}|\uD0D0\uC695\uBC95.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\Make a big number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D9FF13A-91CB-43C7-9BB4-71ED8D7B8D22}|\uD0D0\uC695\uBC95.vcxproj|solutionrelative:Make a big number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9FF13A-91CB-43C7-9BB4-71ED8D7B8D22}|\uD0D0\uC695\uBC95.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\Joystick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D9FF13A-91CB-43C7-9BB4-71ED8D7B8D22}|\uD0D0\uC695\uBC95.vcxproj|solutionrelative:Joystick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Speed \u200B\u200Bcamera.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\Speed \u200B\u200Bcamera.cpp",
+              "RelativeDocumentMoniker": "Speed \u200B\u200Bcamera.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\Speed \u200B\u200Bcamera.cpp",
+              "RelativeToolTip": "Speed \u200B\u200Bcamera.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T01:39:28.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connecting Islands.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\Connecting Islands.cpp",
+              "RelativeDocumentMoniker": "Connecting Islands.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\Connecting Islands.cpp",
+              "RelativeToolTip": "Connecting Islands.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T01:36:38.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lifeboat.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\lifeboat.cpp",
+              "RelativeDocumentMoniker": "lifeboat.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\lifeboat.cpp",
+              "RelativeToolTip": "lifeboat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T01:31:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Make a big number.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\Make a big number.cpp",
+              "RelativeDocumentMoniker": "Make a big number.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\Make a big number.cpp",
+              "RelativeToolTip": "Make a big number.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T01:29:10.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Joystick.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\Joystick.cpp",
+              "RelativeDocumentMoniker": "Joystick.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uD0D0\uC695\uBC95\\Joystick.cpp",
+              "RelativeToolTip": "Joystick.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-19T01:24:35.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
