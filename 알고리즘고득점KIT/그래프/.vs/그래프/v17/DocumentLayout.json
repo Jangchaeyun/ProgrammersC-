@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uADF8\uB798\uD504\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA586D37-1349-401B-B2A8-D1C6EBAAD920}|\uADF8\uB798\uD504.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uADF8\uB798\uD504\\Number of rooms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA586D37-1349-401B-B2A8-D1C6EBAAD920}|\uADF8\uB798\uD504.vcxproj|solutionrelative:Number of rooms.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA586D37-1349-401B-B2A8-D1C6EBAAD920}|\uADF8\uB798\uD504.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uADF8\uB798\uD504\\ranking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA586D37-1349-401B-B2A8-D1C6EBAAD920}|\uADF8\uB798\uD504.vcxproj|solutionrelative:ranking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA586D37-1349-401B-B2A8-D1C6EBAAD920}|\uADF8\uB798\uD504.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uADF8\uB798\uD504\\furthest node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA586D37-1349-401B-B2A8-D1C6EBAAD920}|\uADF8\uB798\uD504.vcxproj|solutionrelative:furthest node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Number of rooms.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uADF8\uB798\uD504\\Number of rooms.cpp",
+              "RelativeDocumentMoniker": "Number of rooms.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uADF8\uB798\uD504\\Number of rooms.cpp",
+              "RelativeToolTip": "Number of rooms.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T00:48:47.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ranking.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uADF8\uB798\uD504\\ranking.cpp",
+              "RelativeDocumentMoniker": "ranking.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uADF8\uB798\uD504\\ranking.cpp",
+              "RelativeToolTip": "ranking.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T00:32:26.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "furthest node.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uADF8\uB798\uD504\\furthest node.cpp",
+              "RelativeDocumentMoniker": "furthest node.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uC54C\uACE0\uB9AC\uC998\uACE0\uB4DD\uC810KIT\\\uADF8\uB798\uD504\\furthest node.cpp",
+              "RelativeToolTip": "furthest node.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T00:15:41.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
