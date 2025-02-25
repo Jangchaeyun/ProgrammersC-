@@ -127,11 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Bus.cpp" />
     <ClCompile Include="Cardiopulmonary resuscitation.cpp" />
     <ClCompile Include="Character Output.cpp" />
     <ClCompile Include="Combine angles.cpp" />
     <ClCompile Include="Dividing Numbers.cpp" />
     <ClCompile Include="Military classification.cpp" />
+    <ClCompile Include="Nickname Rules.cpp" />
+    <ClCompile Include="Water shortage.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

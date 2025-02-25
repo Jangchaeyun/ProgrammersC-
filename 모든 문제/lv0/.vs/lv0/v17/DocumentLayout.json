@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7C368860-35E6-4E3F-895E-AFB705FE08E8}|lv0.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Nickname Rules.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C368860-35E6-4E3F-895E-AFB705FE08E8}|lv0.vcxproj|solutionrelative:Nickname Rules.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C368860-35E6-4E3F-895E-AFB705FE08E8}|lv0.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Bus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C368860-35E6-4E3F-895E-AFB705FE08E8}|lv0.vcxproj|solutionrelative:Bus.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C368860-35E6-4E3F-895E-AFB705FE08E8}|lv0.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Water shortage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C368860-35E6-4E3F-895E-AFB705FE08E8}|lv0.vcxproj|solutionrelative:Water shortage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C368860-35E6-4E3F-895E-AFB705FE08E8}|lv0.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Cardiopulmonary resuscitation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7C368860-35E6-4E3F-895E-AFB705FE08E8}|lv0.vcxproj|solutionrelative:Cardiopulmonary resuscitation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -35,6 +47,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Nickname Rules.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Nickname Rules.cpp",
+              "RelativeDocumentMoniker": "Nickname Rules.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Nickname Rules.cpp",
+              "RelativeToolTip": "Nickname Rules.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T02:57:56.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bus.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Bus.cpp",
+              "RelativeDocumentMoniker": "Bus.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Bus.cpp",
+              "RelativeToolTip": "Bus.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T02:45:39.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Water shortage.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Water shortage.cpp",
+              "RelativeDocumentMoniker": "Water shortage.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Water shortage.cpp",
+              "RelativeToolTip": "Water shortage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T02:37:38.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Cardiopulmonary resuscitation.cpp",
               "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Cardiopulmonary resuscitation.cpp",
               "RelativeDocumentMoniker": "Cardiopulmonary resuscitation.cpp",
@@ -47,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Military classification.cpp",
               "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Military classification.cpp",
               "RelativeDocumentMoniker": "Military classification.cpp",
@@ -55,12 +106,11 @@
               "RelativeToolTip": "Military classification.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-24T00:52:20.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T00:52:20.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Dividing Numbers.cpp",
               "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Dividing Numbers.cpp",
               "RelativeDocumentMoniker": "Dividing Numbers.cpp",
@@ -68,12 +118,11 @@
               "RelativeToolTip": "Dividing Numbers.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-24T00:46:24.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T00:46:24.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Combine angles.cpp",
               "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Combine angles.cpp",
               "RelativeDocumentMoniker": "Combine angles.cpp",
@@ -81,12 +130,11 @@
               "RelativeToolTip": "Combine angles.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-24T00:39:34.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T00:39:34.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Character Output.cpp",
               "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv0\\Character Output.cpp",
               "RelativeDocumentMoniker": "Character Output.cpp",
@@ -94,8 +142,7 @@
               "RelativeToolTip": "Character Output.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-24T00:34:21.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T00:34:21.834Z"
             }
           ]
         }
