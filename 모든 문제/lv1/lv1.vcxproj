@@ -127,7 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Bandage.cpp" />
     <ClCompile Include="decipher the secret code.cpp" />
+    <ClCompile Include="Flexible working hours.cpp" />
+    <ClCompile Include="Folding Bills.cpp" />
+    <ClCompile Include="Most Received Gift.cpp" />
+    <ClCompile Include="Park.cpp" />
     <ClCompile Include="Take out the delivery box.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
