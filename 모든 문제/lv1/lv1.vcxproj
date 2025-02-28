@@ -127,12 +127,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="A password just for two.cpp" />
+    <ClCompile Include="A roughly made keyboard.cpp" />
+    <ClCompile Include="A walk in the park.cpp" />
+    <ClCompile Include="Adding paint.cpp" />
     <ClCompile Include="Bandage.cpp" />
+    <ClCompile Include="Data Analysis.cpp" />
     <ClCompile Include="decipher the secret code.cpp" />
+    <ClCompile Include="deck of cards.cpp" />
     <ClCompile Include="Flexible working hours.cpp" />
     <ClCompile Include="Folding Bills.cpp" />
+    <ClCompile Include="Memory Score.cpp" />
     <ClCompile Include="Most Received Gift.cpp" />
+    <ClCompile Include="Neighboring cells.cpp" />
+    <ClCompile Include="Organize your desktop.cpp" />
     <ClCompile Include="Park.cpp" />
+    <ClCompile Include="Running race.cpp" />
     <ClCompile Include="Take out the delivery box.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

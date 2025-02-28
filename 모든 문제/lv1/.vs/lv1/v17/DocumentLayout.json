@@ -1,88 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Bandage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|solutionrelative:Bandage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Most Received Gift.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|solutionrelative:Most Received Gift.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Park.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|solutionrelative:Park.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Folding Bills.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|solutionrelative:Folding Bills.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Bandage.cpp",
-              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Bandage.cpp",
-              "RelativeDocumentMoniker": "Bandage.cpp",
-              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Bandage.cpp",
-              "RelativeToolTip": "Bandage.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAA2wDIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-26T01:57:07.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Most Received Gift.cpp",
-              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Most Received Gift.cpp",
-              "RelativeDocumentMoniker": "Most Received Gift.cpp",
-              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Most Received Gift.cpp",
-              "RelativeToolTip": "Most Received Gift.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAA2wD8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-26T01:42:14.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Park.cpp",
-              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Park.cpp",
-              "RelativeDocumentMoniker": "Park.cpp",
-              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Park.cpp",
-              "RelativeToolTip": "Park.cpp",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA2wCMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-26T01:34:20.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Folding Bills.cpp",
-              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Folding Bills.cpp",
-              "RelativeDocumentMoniker": "Folding Bills.cpp",
-              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Folding Bills.cpp",
-              "RelativeToolTip": "Folding Bills.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-26T01:26:29.915Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
