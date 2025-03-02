@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Hall of Fame1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|solutionrelative:Hall of Fame1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Split string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|solutionrelative:Split string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Closest identical letter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|solutionrelative:Closest identical letter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Small substring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0D5F83C1-FB9A-46F5-9699-99796FFDD0F5}|lv1.vcxproj|solutionrelative:Small substring.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Hall of Fame1.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Hall of Fame1.cpp",
+              "RelativeDocumentMoniker": "Hall of Fame1.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Hall of Fame1.cpp",
+              "RelativeToolTip": "Hall of Fame1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T06:44:54.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Split string.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Split string.cpp",
+              "RelativeDocumentMoniker": "Split string.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Split string.cpp",
+              "RelativeToolTip": "Split string.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T06:41:49.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Closest identical letter.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Closest identical letter.cpp",
+              "RelativeDocumentMoniker": "Closest identical letter.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Closest identical letter.cpp",
+              "RelativeToolTip": "Closest identical letter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T06:38:41.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Small substring.cpp",
               "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Small substring.cpp",
               "RelativeDocumentMoniker": "Small substring.cpp",
@@ -35,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Personal information collection validity period.cpp",
               "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv1\\Personal information collection validity period.cpp",
               "RelativeDocumentMoniker": "Personal information collection validity period.cpp",
@@ -43,8 +94,7 @@
               "RelativeToolTip": "Personal information collection validity period.cpp",
               "ViewState": "AgIAAAgAAAAAAAAAAAAcwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-01T06:21:18.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T06:21:18.718Z"
             }
           ]
         }
