@@ -126,5 +126,20 @@
     <ClCompile Include="Number strings and English words.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Number of divisors and addition.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Highest and lowest rankings in Lotto.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Yin Yang plus.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="New ID recommendation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Inner product.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
