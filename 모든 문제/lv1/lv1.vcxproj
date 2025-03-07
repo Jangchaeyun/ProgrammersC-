@@ -134,11 +134,14 @@
     <ClCompile Include="Adding paint.cpp" />
     <ClCompile Include="Babbling2.cpp" />
     <ClCompile Include="Bandage.cpp" />
+    <ClCompile Include="budget.cpp" />
     <ClCompile Include="Calculate the amount of the shortfall.cpp" />
     <ClCompile Include="Closest identical letter.cpp" />
+    <ClCompile Include="Crane Claw Game.cpp" />
     <ClCompile Include="Data Analysis.cpp" />
     <ClCompile Include="decipher the secret code.cpp" />
     <ClCompile Include="deck of cards.cpp" />
+    <ClCompile Include="Failure rate.cpp" />
     <ClCompile Include="Find the number with remainder1.cpp" />
     <ClCompile Include="Flexible working hours.cpp" />
     <ClCompile Include="Folding Bills.cpp" />
@@ -150,6 +153,7 @@
     <ClCompile Include="Inner product.cpp" />
     <ClCompile Include="Knight%27s Weapon.cpp" />
     <ClCompile Include="Making a hamburger.cpp" />
+    <ClCompile Include="Making a prime number.cpp" />
     <ClCompile Include="Memory Score.cpp" />
     <ClCompile Include="MinimumRectangle.cpp" />
     <ClCompile Include="Most Received Gift.cpp" />
@@ -161,14 +165,20 @@
     <ClCompile Include="Organize your desktop.cpp" />
     <ClCompile Include="Park.cpp" />
     <ClCompile Include="Personal information collection validity period.cpp" />
+    <ClCompile Include="Pick two and add them.cpp" />
+    <ClCompile Include="Press the keypad.cpp" />
+    <ClCompile Include="Rectangular star stamp.cpp" />
     <ClCompile Include="Running race.cpp" />
     <ClCompile Include="Small substring.cpp" />
     <ClCompile Include="Split string.cpp" />
     <ClCompile Include="Take a personality type test.cpp" />
     <ClCompile Include="Take out the delivery box.cpp" />
+    <ClCompile Include="Ternary reversal.cpp" />
     <ClCompile Include="The cola problem.cpp" />
     <ClCompile Include="The Three Musketeers.cpp" />
     <ClCompile Include="Yin Yang plus.cpp" />
+    <ClCompile Include="[1st] Dart Game.cpp" />
+    <ClCompile Include="[1st] Secret Map.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
