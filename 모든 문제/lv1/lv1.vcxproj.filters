@@ -231,5 +231,20 @@
     <ClCompile Include="Finding Mr. Kim in Seoul.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="String Handling Basics.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort strings in descending order.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Number of p and y in the string.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort strings as you like.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="sum between two integers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

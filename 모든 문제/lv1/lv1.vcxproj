@@ -176,6 +176,7 @@
     <ClCompile Include="Neighboring cells.cpp" />
     <ClCompile Include="New ID recommendation.cpp" />
     <ClCompile Include="Number of divisors and addition.cpp" />
+    <ClCompile Include="Number of p and y in the string.cpp" />
     <ClCompile Include="Number Partner.cpp" />
     <ClCompile Include="Number strings and English words.cpp" />
     <ClCompile Include="Organize your desktop.cpp" />
@@ -188,7 +189,11 @@
     <ClCompile Include="Running race.cpp" />
     <ClCompile Include="Small substring.cpp" />
     <ClCompile Include="Sort integers in descending order.cpp" />
+    <ClCompile Include="Sort strings as you like.cpp" />
+    <ClCompile Include="Sort strings in descending order.cpp" />
     <ClCompile Include="Split string.cpp" />
+    <ClCompile Include="String Handling Basics.cpp" />
+    <ClCompile Include="sum between two integers.cpp" />
     <ClCompile Include="sum of divisors.cpp" />
     <ClCompile Include="Take a personality type test.cpp" />
     <ClCompile Include="Take out the delivery box.cpp" />
