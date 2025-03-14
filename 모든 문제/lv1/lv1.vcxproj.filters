@@ -246,5 +246,17 @@
     <ClCompile Include="sum between two integers.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Divisible array of numbers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="I don%27t like the same numbers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Get middle letter.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2016.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2016.cpp" />
     <ClCompile Include="A password just for two.cpp" />
     <ClCompile Include="A roughly made keyboard.cpp" />
     <ClCompile Include="A walk in the park.cpp" />
@@ -147,6 +148,7 @@
     <ClCompile Include="Data Analysis.cpp" />
     <ClCompile Include="decipher the secret code.cpp" />
     <ClCompile Include="deck of cards.cpp" />
+    <ClCompile Include="Divisible array of numbers.cpp" />
     <ClCompile Include="Even and odd.cpp" />
     <ClCompile Include="Failure rate.cpp" />
     <ClCompile Include="Find the number with remainder1.cpp" />
@@ -157,12 +159,14 @@
     <ClCompile Include="Folding Bills.cpp" />
     <ClCompile Include="Food Fight Contest.cpp" />
     <ClCompile Include="fruiterer.cpp" />
+    <ClCompile Include="Get middle letter.cpp" />
     <ClCompile Include="Get report results.cpp" />
     <ClCompile Include="Greatest common divisor and least common multiple.cpp" />
     <ClCompile Include="Hall of Fame1.cpp" />
     <ClCompile Include="Harshad number.cpp" />
     <ClCompile Include="Hide your phone number.cpp" />
     <ClCompile Include="Highest and lowest rankings in Lotto.cpp" />
+    <ClCompile Include="I don%27t like the same numbers.cpp" />
     <ClCompile Include="Inner product.cpp" />
     <ClCompile Include="Integer square root determination.cpp" />
     <ClCompile Include="Knight%27s Weapon.cpp" />

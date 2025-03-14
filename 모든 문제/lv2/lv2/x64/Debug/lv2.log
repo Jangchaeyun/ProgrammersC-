@@ -1,0 +1,6 @@
+﻿  Number of server expansions.cpp
+  Perfect crime.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Perfect crime.cpp(10,17): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\x64\Debug\lv2.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
