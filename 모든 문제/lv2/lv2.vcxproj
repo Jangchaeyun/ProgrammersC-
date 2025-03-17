@@ -127,9 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Analog Clock.cpp" />
+    <ClCompile Include="Donuts and Bar Graphs.cpp" />
     <ClCompile Include="Finding the Risk of Collision.cpp" />
     <ClCompile Include="Forklift and crane.cpp" />
+    <ClCompile Include="Integer pair between two circles.cpp" />
+    <ClCompile Include="Interception system.cpp" />
     <ClCompile Include="Number of server expansions.cpp" />
+    <ClCompile Include="Oil Drilling.cpp" />
     <ClCompile Include="Perfect crime.cpp" />
     <ClCompile Include="Puzzle Game Challenge.cpp" />
   </ItemGroup>

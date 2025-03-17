@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8678492C-E7E4-4657-9B04-A895281E65CF}|lv2.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Number of server expansions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8678492C-E7E4-4657-9B04-A895281E65CF}|lv2.vcxproj|solutionrelative:Number of server expansions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8678492C-E7E4-4657-9B04-A895281E65CF}|lv2.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Interception system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8678492C-E7E4-4657-9B04-A895281E65CF}|lv2.vcxproj|solutionrelative:Interception system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8678492C-E7E4-4657-9B04-A895281E65CF}|lv2.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Perfect crime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8678492C-E7E4-4657-9B04-A895281E65CF}|lv2.vcxproj|solutionrelative:Perfect crime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8678492C-E7E4-4657-9B04-A895281E65CF}|lv2.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Analog Clock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8678492C-E7E4-4657-9B04-A895281E65CF}|lv2.vcxproj|solutionrelative:Analog Clock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8678492C-E7E4-4657-9B04-A895281E65CF}|lv2.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Oil Drilling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8678492C-E7E4-4657-9B04-A895281E65CF}|lv2.vcxproj|solutionrelative:Oil Drilling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8678492C-E7E4-4657-9B04-A895281E65CF}|lv2.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Donuts and Bar Graphs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8678492C-E7E4-4657-9B04-A895281E65CF}|lv2.vcxproj|solutionrelative:Donuts and Bar Graphs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Number of server expansions.cpp",
-              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Number of server expansions.cpp",
-              "RelativeDocumentMoniker": "Number of server expansions.cpp",
-              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Number of server expansions.cpp",
-              "RelativeToolTip": "Number of server expansions.cpp",
+              "Title": "Interception system.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Interception system.cpp",
+              "RelativeDocumentMoniker": "Interception system.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Interception system.cpp",
+              "RelativeToolTip": "Interception system.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-14T00:23:40.139Z",
+              "WhenOpened": "2025-03-17T01:06:29.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Perfect crime.cpp",
-              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Perfect crime.cpp",
-              "RelativeDocumentMoniker": "Perfect crime.cpp",
-              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Perfect crime.cpp",
-              "RelativeToolTip": "Perfect crime.cpp",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwDwAAAABAAAAAAAAAA==",
+              "Title": "Analog Clock.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Analog Clock.cpp",
+              "RelativeDocumentMoniker": "Analog Clock.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Analog Clock.cpp",
+              "RelativeToolTip": "Analog Clock.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwEkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-14T00:12:20.428Z",
+              "WhenOpened": "2025-03-17T01:02:59.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Oil Drilling.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Oil Drilling.cpp",
+              "RelativeDocumentMoniker": "Oil Drilling.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Oil Drilling.cpp",
+              "RelativeToolTip": "Oil Drilling.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T00:50:02.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Donuts and Bar Graphs.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Donuts and Bar Graphs.cpp",
+              "RelativeDocumentMoniker": "Donuts and Bar Graphs.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv2\\Donuts and Bar Graphs.cpp",
+              "RelativeToolTip": "Donuts and Bar Graphs.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T00:47:17.138Z",
               "EditorCaption": ""
             }
           ]

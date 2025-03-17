@@ -1,6 +1,14 @@
-﻿  Number of server expansions.cpp
-  Perfect crime.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Perfect crime.cpp(10,17): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  Analog Clock.cpp
+  Donuts and Bar Graphs.cpp
+  Finding the Risk of Collision.cpp
+  Forklift and crane.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Forklift and crane.cpp(15,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Forklift and crane.cpp(16,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Interception system.cpp
+  Number of server expansions.cpp
+  Oil Drilling.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Oil Drilling.cpp(19,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Oil Drilling.cpp(20,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Puzzle Game Challenge.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Puzzle Game Challenge.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'bits/stdc++.h': No such file or directory
   코드를 생성하고 있습니다...
-MSVCRTD.lib(exe_main.obj) : error LNK2019: main"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\x64\Debug\lv2.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

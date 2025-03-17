@@ -30,5 +30,20 @@
     <ClCompile Include="Finding the Risk of Collision.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Donuts and Bar Graphs.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Oil Drilling.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Analog Clock.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Interception system.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Integer pair between two circles.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
