@@ -45,5 +45,20 @@
     <ClCompile Include="Integer pair between two circles.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sum of consecutive subsequences.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Progress on the assignment.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Mining Mining.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Ricochet Robot.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Billiards practice.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
