@@ -75,5 +75,20 @@
     <ClCompile Include="Find the big number behind.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Convert numbers.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Seesaw Partner.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Delivery and collection of parcels.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Emoticon Discount Event.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Magic Elevator.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -129,14 +129,18 @@
   <ItemGroup>
     <ClCompile Include="Analog Clock.cpp" />
     <ClCompile Include="Billiards practice.cpp" />
+    <ClCompile Include="Convert numbers.cpp" />
+    <ClCompile Include="Delivery and collection of parcels.cpp" />
     <ClCompile Include="Deserted Island Trip.cpp" />
     <ClCompile Include="Donuts and Bar Graphs.cpp" />
+    <ClCompile Include="Emoticon Discount Event.cpp" />
     <ClCompile Include="Find the big number behind.cpp" />
     <ClCompile Include="Finding the Risk of Collision.cpp" />
     <ClCompile Include="Forklift and crane.cpp" />
     <ClCompile Include="Hotel waiting room.cpp" />
     <ClCompile Include="Integer pair between two circles.cpp" />
     <ClCompile Include="Interception system.cpp" />
+    <ClCompile Include="Magic Elevator.cpp" />
     <ClCompile Include="Maze Escape.cpp" />
     <ClCompile Include="Mining Mining.cpp" />
     <ClCompile Include="Number of server expansions.cpp" />
@@ -145,6 +149,7 @@
     <ClCompile Include="Progress on the assignment.cpp" />
     <ClCompile Include="Puzzle Game Challenge.cpp" />
     <ClCompile Include="Ricochet Robot.cpp" />
+    <ClCompile Include="Seesaw Partner.cpp" />
     <ClCompile Include="sum of consecutive subsequences.cpp" />
     <ClCompile Include="Tic-tac-toe alone.cpp" />
   </ItemGroup>
