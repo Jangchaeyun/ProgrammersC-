@@ -129,10 +129,13 @@
   <ItemGroup>
     <ClCompile Include="Analog Clock.cpp" />
     <ClCompile Include="Billiards practice.cpp" />
+    <ClCompile Include="Choosing a Tangerine.cpp" />
     <ClCompile Include="Convert numbers.cpp" />
+    <ClCompile Include="Defense game.cpp" />
     <ClCompile Include="Delivery and collection of parcels.cpp" />
     <ClCompile Include="Deserted Island Trip.cpp" />
     <ClCompile Include="Donuts and Bar Graphs.cpp" />
+    <ClCompile Include="Dotting.cpp" />
     <ClCompile Include="Emoticon Discount Event.cpp" />
     <ClCompile Include="Find the big number behind.cpp" />
     <ClCompile Include="Finding the Risk of Collision.cpp" />
@@ -147,10 +150,12 @@
     <ClCompile Include="Oil Drilling.cpp" />
     <ClCompile Include="Perfect crime.cpp" />
     <ClCompile Include="Progress on the assignment.cpp" />
+    <ClCompile Include="pseudo cantor bit string.cpp" />
     <ClCompile Include="Puzzle Game Challenge.cpp" />
     <ClCompile Include="Ricochet Robot.cpp" />
     <ClCompile Include="Seesaw Partner.cpp" />
     <ClCompile Include="sum of consecutive subsequences.cpp" />
+    <ClCompile Include="Table hash function.cpp" />
     <ClCompile Include="Tic-tac-toe alone.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
