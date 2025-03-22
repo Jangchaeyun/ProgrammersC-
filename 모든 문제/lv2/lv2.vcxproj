@@ -131,15 +131,19 @@
     <ClCompile Include="Billiards practice.cpp" />
     <ClCompile Include="Choosing a Tangerine.cpp" />
     <ClCompile Include="Convert numbers.cpp" />
+    <ClCompile Include="Cutting a Roll Cake.cpp" />
     <ClCompile Include="Defense game.cpp" />
     <ClCompile Include="Delivery and collection of parcels.cpp" />
+    <ClCompile Include="Delivery box.cpp" />
     <ClCompile Include="Deserted Island Trip.cpp" />
+    <ClCompile Include="Divide number cards.cpp" />
     <ClCompile Include="Donuts and Bar Graphs.cpp" />
     <ClCompile Include="Dotting.cpp" />
     <ClCompile Include="Emoticon Discount Event.cpp" />
     <ClCompile Include="Find the big number behind.cpp" />
     <ClCompile Include="Finding the Risk of Collision.cpp" />
     <ClCompile Include="Forklift and crane.cpp" />
+    <ClCompile Include="Hail sequence definite integral.cpp" />
     <ClCompile Include="Hotel waiting room.cpp" />
     <ClCompile Include="Integer pair between two circles.cpp" />
     <ClCompile Include="Interception system.cpp" />
@@ -147,6 +151,7 @@
     <ClCompile Include="Maze Escape.cpp" />
     <ClCompile Include="Mining Mining.cpp" />
     <ClCompile Include="Number of server expansions.cpp" />
+    <ClCompile Include="Number of sums of consecutive subsequences.cpp" />
     <ClCompile Include="Oil Drilling.cpp" />
     <ClCompile Include="Perfect crime.cpp" />
     <ClCompile Include="Progress on the assignment.cpp" />
