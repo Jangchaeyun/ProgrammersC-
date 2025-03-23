@@ -1,14 +1,74 @@
-﻿  Analog Clock.cpp
-  Donuts and Bar Graphs.cpp
-  Finding the Risk of Collision.cpp
-  Forklift and crane.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Forklift and crane.cpp(15,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Forklift and crane.cpp(16,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  Billiards practice.cpp
+  Choosing a Tangerine.cpp
+  Convert numbers.cpp
+  Cutting a Roll Cake.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Cutting a Roll Cake.cpp(19,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Cutting a Roll Cake.cpp(21,21): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Defense game.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Defense game.cpp(21,19): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Delivery and collection of parcels.cpp
+  Delivery box.cpp
+  Deserted Island Trip.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Deserted Island Trip.cpp(17,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Deserted Island Trip.cpp(18,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Discount Event.cpp
+  Divide number cards.cpp
+  Dotting.cpp
+  Emoticon Discount Event.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Emoticon Discount Event.cpp(41,23): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Find the big number behind.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Find the big number behind.cpp(11,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Hail sequence definite integral.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Hail sequence definite integral.cpp(18,25): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Hotel waiting room.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Hotel waiting room.cpp(9,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Integer pair between two circles.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Integer pair between two circles.cpp(11,43): warning C4244: '인수': '__int64'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Integer pair between two circles.cpp(11,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Integer pair between two circles.cpp(12,44): warning C4244: '인수': '__int64'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Integer pair between two circles.cpp(12,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Interception system.cpp
-  Number of server expansions.cpp
-  Oil Drilling.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Oil Drilling.cpp(19,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Oil Drilling.cpp(20,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Magic Elevator.cpp
+  Make the sum of two queues equal.cpp
+  Master of playing alone.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Master of playing alone.cpp(8,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Maze Escape.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(12,13): error C2131: 식이 상수로 계산되지 않았습니다.
+      D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(12,13):
+      수명을 벗어난 변수 읽기로 인해 오류가 발생했습니다.
+      D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(12,13):
+      'n' 사용량 참조
+  
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(12,16): error C2131: 식이 상수로 계산되지 않았습니다.
+      D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(12,16):
+      수명을 벗어난 변수 읽기로 인해 오류가 발생했습니다.
+      D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(12,16):
+      'm' 사용량 참조
+  
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(13,44): error C3863: 배열 형식 'int [n][m]'은(는) 할당할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(25,25): error C3863: 배열 형식 'int [n][m]'은(는) 할당할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(23,40): error C2036: 'int [n][m]': 알 수 없는 크기입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(23,46): error C2036: 'int [n][m]': 알 수 없는 크기입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(24,49): error C2036: 'int [n][m]': 알 수 없는 크기입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(24,62): error C2036: 'int [n][m]': 알 수 없는 크기입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(12,36): error C1903: 이전 오류를 복구할 수 없습니다. 컴파일이 중지됩니다.
+  Mining Mining.cpp
+  Number of sums of consecutive subsequences.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Number of sums of consecutive subsequences.cpp(20,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Progress on the assignment.cpp
+  pseudo cantor bit string.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\pseudo cantor bit string.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'bits/stdc++.h': No such file or directory
   Puzzle Game Challenge.cpp
 D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Puzzle Game Challenge.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'bits/stdc++.h': No such file or directory
+  Ricochet Robot.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Ricochet Robot.cpp(59,19): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Ricochet Robot.cpp(60,22): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Seesaw Partner.cpp
+  sum of consecutive subsequences.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\sum of consecutive subsequences.cpp(9,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Table hash function.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Table hash function.cpp(24,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Tic-tac-toe alone.cpp
   코드를 생성하고 있습니다...

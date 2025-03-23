@@ -120,5 +120,17 @@
     <ClCompile Include="Number of sums of consecutive subsequences.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Master of playing alone.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Discount Event.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Make the sum of two queues equal.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Archery competition.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Analog Clock.cpp" />
+    <ClCompile Include="Archery competition.cpp" />
     <ClCompile Include="Billiards practice.cpp" />
     <ClCompile Include="Choosing a Tangerine.cpp" />
     <ClCompile Include="Convert numbers.cpp" />
@@ -136,6 +137,7 @@
     <ClCompile Include="Delivery and collection of parcels.cpp" />
     <ClCompile Include="Delivery box.cpp" />
     <ClCompile Include="Deserted Island Trip.cpp" />
+    <ClCompile Include="Discount Event.cpp" />
     <ClCompile Include="Divide number cards.cpp" />
     <ClCompile Include="Donuts and Bar Graphs.cpp" />
     <ClCompile Include="Dotting.cpp" />
@@ -148,6 +150,8 @@
     <ClCompile Include="Integer pair between two circles.cpp" />
     <ClCompile Include="Interception system.cpp" />
     <ClCompile Include="Magic Elevator.cpp" />
+    <ClCompile Include="Make the sum of two queues equal.cpp" />
+    <ClCompile Include="Master of playing alone.cpp" />
     <ClCompile Include="Maze Escape.cpp" />
     <ClCompile Include="Mining Mining.cpp" />
     <ClCompile Include="Number of server expansions.cpp" />
