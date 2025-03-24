@@ -132,5 +132,20 @@
     <ClCompile Include="Archery competition.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Calculate parking fee.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Finding the number of prime numbers in base k.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="n^2 array slicing.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Create a star at the intersection.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Light Path Cycle.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
