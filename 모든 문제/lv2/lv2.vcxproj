@@ -127,12 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2 or fewer different bits.cpp" />
     <ClCompile Include="Analog Clock.cpp" />
     <ClCompile Include="Archery competition.cpp" />
     <ClCompile Include="Billiards practice.cpp" />
     <ClCompile Include="Calculate parking fee.cpp" />
+    <ClCompile Include="Check social distancing.cpp" />
     <ClCompile Include="Choosing a Tangerine.cpp" />
     <ClCompile Include="Convert numbers.cpp" />
+    <ClCompile Include="Counting after quad compression.cpp" />
     <ClCompile Include="Create a star at the intersection.cpp" />
     <ClCompile Include="Cutting a Roll Cake.cpp" />
     <ClCompile Include="Defense game.cpp" />
@@ -156,7 +159,9 @@
     <ClCompile Include="Magic Elevator.cpp" />
     <ClCompile Include="Make the sum of two queues equal.cpp" />
     <ClCompile Include="Master of playing alone.cpp" />
+    <ClCompile Include="Maximize the formula.cpp" />
     <ClCompile Include="Maze Escape.cpp" />
+    <ClCompile Include="Menu renewal.cpp" />
     <ClCompile Include="Mining Mining.cpp" />
     <ClCompile Include="Number of server expansions.cpp" />
     <ClCompile Include="Number of sums of consecutive subsequences.cpp" />
@@ -166,11 +171,16 @@
     <ClCompile Include="Progress on the assignment.cpp" />
     <ClCompile Include="pseudo cantor bit string.cpp" />
     <ClCompile Include="Puzzle Game Challenge.cpp" />
+    <ClCompile Include="Rank search.cpp" />
+    <ClCompile Include="Repeat binary conversion.cpp" />
     <ClCompile Include="Ricochet Robot.cpp" />
+    <ClCompile Include="Rotate parentheses.cpp" />
+    <ClCompile Include="Rotate the matrix border.cpp" />
     <ClCompile Include="Seesaw Partner.cpp" />
     <ClCompile Include="sum of consecutive subsequences.cpp" />
     <ClCompile Include="Table hash function.cpp" />
     <ClCompile Include="Tic-tac-toe alone.cpp" />
+    <ClCompile Include="Triangular snail.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
