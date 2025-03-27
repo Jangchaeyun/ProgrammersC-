@@ -1,39 +1,168 @@
-﻿  Billiards practice.cpp
-  Choosing a Tangerine.cpp
-  Convert numbers.cpp
-  Cutting a Roll Cake.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Cutting a Roll Cake.cpp(19,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Cutting a Roll Cake.cpp(21,21): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Defense game.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Defense game.cpp(21,19): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  2 or fewer different bits.cpp
+  A perfect square.cpp
+  Archery competition.cpp
+  Billiards practice.cpp
+  Calculate parking fee.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Calculate parking fee.cpp(13,20): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Candidate Key.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Candidate Key.cpp(40,30): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Candidate Key.cpp(46,24): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Check social distancing.cpp
+  Counting after quad compression.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Counting after quad compression.cpp(27,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Create a star at the intersection.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244: '초기화 중': '_Ty'에서 '_Ty1'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:             _Ty=__int64
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:             _Ty1=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16): warning C4244:         ]
+  (소스 파일 'Create%20a%20star%20at%20the%20intersection.cpp'을(를) 컴파일하는 중)
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,16):
+      템플릿 인스턴스화 컨텍스트(가장 오래된 인스턴스화 컨텍스트)가
+          D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Create a star at the intersection.cpp(17,57):
+          컴파일되는 함수 템플릿 인스턴스화 'std::pair<int,int>::pair<__int64,__int64,0>(_Other1 &&,_Other2 &&) noexcept'에 대한 참조를 확인하세요.
+          with
+          [
+              _Other1=__int64,
+              _Other2=__int64
+          ]
+              D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Create a star at the intersection.cpp(17,56):
+              'solution'에서 'std::pair<int,int>::pair'에 대한 첫 번째 참조를 확인하세요.
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244: '초기화 중': '_Ty'에서 '_Ty2'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:             _Ty=__int64
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:             _Ty2=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\utility(274,54): warning C4244:         ]
+  (소스 파일 'Create%20a%20star%20at%20the%20intersection.cpp'을(를) 컴파일하는 중)
+  
   Delivery and collection of parcels.cpp
-  Delivery box.cpp
-  Deserted Island Trip.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Deserted Island Trip.cpp(17,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Deserted Island Trip.cpp(18,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Discount Event.cpp
-  Divide number cards.cpp
-  Dotting.cpp
-  Emoticon Discount Event.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Emoticon Discount Event.cpp(41,23): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Find the big number behind.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Find the big number behind.cpp(11,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Hail sequence definite integral.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Hail sequence definite integral.cpp(18,25): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Hotel waiting room.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Hotel waiting room.cpp(9,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Integer pair between two circles.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Integer pair between two circles.cpp(11,43): warning C4244: '인수': '__int64'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Integer pair between two circles.cpp(11,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Integer pair between two circles.cpp(12,44): warning C4244: '인수': '__int64'에서 'double'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Integer pair between two circles.cpp(12,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Interception system.cpp
-  Magic Elevator.cpp
-  Make the sum of two queues equal.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Delivery and collection of parcels.cpp(11,9): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Delivery and collection of parcels.cpp(12,9): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Delivery and collection of parcels.cpp(13,9): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Delivery and collection of parcels.cpp(15,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Finding the number of prime numbers in base k.cpp
+  Length of visit.cpp
+  lifeboat.cpp
+  Light Path Cycle.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(14,1): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(14,17): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(14,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(14,17): error C2065: 'char C': 선언되지 않은 식별자입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(14,26): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(14,26): error C2065: 'int Dir': 선언되지 않은 식별자입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(14,16): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+      D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(14,16):
+      이니셜라이저에 요소가 너무 많습니다.
+  
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(15,1): error C2059: 구문 오류: '{'
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(15,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(15,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(16,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(16,7): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(18,3): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(18,8): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(18,19): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(18,19): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(19,3): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(19,8): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(19,19): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(19,19): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(20,3): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(20,8): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(20,19): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(20,19): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(21,3): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(21,8): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(21,19): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(21,19): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(24,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(24,7): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(24,18): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(24,18): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(25,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(25,7): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(25,18): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(25,18): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(26,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(26,7): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(26,18): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(26,18): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(27,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(27,7): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(27,18): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(27,18): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(31,1): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(31,17): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(31,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(31,17): error C2065: 'int x': 선언되지 않은 식별자입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(31,25): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(31,25): error C2065: 'int y': 선언되지 않은 식별자입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(31,33): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(31,33): error C2065: 'int Dir': 선언되지 않은 식별자입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(31,43): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(31,43): error C2065: 'int Len': 선언되지 않은 식별자입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(31,16): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+      D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(31,16):
+      이니셜라이저에 요소가 너무 많습니다.
+  
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(32,1): error C2059: 구문 오류: '{'
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(32,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(32,1): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(33,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(33,32): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(33,32): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(37,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(38,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(39,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(41,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(41,24): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(41,24): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(42,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(42,9): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(43,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(43,9): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(44,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(44,7): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(44,16): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(44,16): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(44,25): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(45,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(45,7): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(45,16): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(45,16): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(45,25): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(46,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(46,7): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(46,17): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(46,17): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(47,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(47,7): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(47,17): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(47,17): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(49,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(49,33): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(52,12): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(52,37): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(54,13): error C3873: '0xa0': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(55,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(55,2): error C2065: 'N ': 선언되지 않은 식별자입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(55,8): error C2065: 'grid': 선언되지 않은 식별자입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(56,2): error C3872: '0xa0': 식별자에는 이 문자를 사용할 수 없습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(56,2): error C2065: 'M ': 선언되지 않은 식별자입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(56,8): error C2065: 'grid': 선언되지 않은 식별자입니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Light Path Cycle.cpp(56,8): error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
   Master of playing alone.cpp
 D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Master of playing alone.cpp(8,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  코드를 생성하고 있습니다...
-  컴파일하고 있습니다...
+  Maximize the formula.cpp
   Maze Escape.cpp
 D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(12,13): error C2131: 식이 상수로 계산되지 않았습니다.
       D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(12,13):
@@ -54,21 +183,42 @@ D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Es
 D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(24,49): error C2036: 'int [n][m]': 알 수 없는 크기입니다.
 D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(24,62): error C2036: 'int [n][m]': 알 수 없는 크기입니다.
 D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Maze Escape.cpp(12,36): error C1903: 이전 오류를 복구할 수 없습니다. 컴파일이 중지됩니다.
-  Mining Mining.cpp
-  Number of sums of consecutive subsequences.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Number of sums of consecutive subsequences.cpp(20,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Progress on the assignment.cpp
+  Menu renewal.cpp
+  n^2 array slicing.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\n^2 array slicing.cpp(11,33): warning C4244: '인수': '__int64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\n^2 array slicing.cpp(11,33): warning C4244:         with
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\n^2 array slicing.cpp(11,33): warning C4244:         [
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\n^2 array slicing.cpp(11,33): warning C4244:             _Ty=int
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\n^2 array slicing.cpp(11,33): warning C4244:         ]
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\n^2 array slicing.cpp(12,27): warning C4244: '인수': '__int64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\n^2 array slicing.cpp(12,27): warning C4244:         with
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\n^2 array slicing.cpp(12,27): warning C4244:         [
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\n^2 array slicing.cpp(12,27): warning C4244:             _Ty=int
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\n^2 array slicing.cpp(12,27): warning C4244:         ]
+  Open chat room.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Open chat room.cpp(13,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Length of visit.cpp(15,1): warning C4715: 'Reverse': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  Parentheses conversion.cpp
   pseudo cantor bit string.cpp
 D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\pseudo cantor bit string.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'bits/stdc++.h': No such file or directory
   Puzzle Game Challenge.cpp
 D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Puzzle Game Challenge.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'bits/stdc++.h': No such file or directory
-  Ricochet Robot.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Ricochet Robot.cpp(59,19): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Ricochet Robot.cpp(60,22): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Seesaw Partner.cpp
-  sum of consecutive subsequences.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\sum of consecutive subsequences.cpp(9,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Table hash function.cpp
-D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Table hash function.cpp(24,10): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Tic-tac-toe alone.cpp
+  Rank search.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Rank search.cpp(70,45): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Rank search.cpp(70,45): warning C4267:         with
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Rank search.cpp(70,45): warning C4267:         [
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Rank search.cpp(70,45): warning C4267:             _Ty=int
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Rank search.cpp(70,45): warning C4267:         ]
+  Repeat binary conversion.cpp
+  Rotate parentheses.cpp
+  Rotate the matrix border.cpp
+  Skill tree.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Skill tree.cpp(12,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  String Compression.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\String Compression.cpp(34,49): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Triangular snail.cpp
+  Tuple.cpp
+D:\취업준비\코팅테스트\프로그래머스\C++\모든 문제\lv2\Tuple.cpp(16,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   코드를 생성하고 있습니다...

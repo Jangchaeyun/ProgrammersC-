@@ -133,6 +133,7 @@
     <ClCompile Include="Archery competition.cpp" />
     <ClCompile Include="Billiards practice.cpp" />
     <ClCompile Include="Calculate parking fee.cpp" />
+    <ClCompile Include="Candidate Key.cpp" />
     <ClCompile Include="Check social distancing.cpp" />
     <ClCompile Include="Choosing a Tangerine.cpp" />
     <ClCompile Include="Convert numbers.cpp" />
@@ -157,6 +158,7 @@
     <ClCompile Include="Integer pair between two circles.cpp" />
     <ClCompile Include="Interception system.cpp" />
     <ClCompile Include="Length of visit.cpp" />
+    <ClCompile Include="lifeboat.cpp" />
     <ClCompile Include="Light Path Cycle.cpp" />
     <ClCompile Include="Magic Elevator.cpp" />
     <ClCompile Include="Make the sum of two queues equal.cpp" />
@@ -169,6 +171,7 @@
     <ClCompile Include="Number of sums of consecutive subsequences.cpp" />
     <ClCompile Include="n^2 array slicing.cpp" />
     <ClCompile Include="Oil Drilling.cpp" />
+    <ClCompile Include="Open chat room.cpp" />
     <ClCompile Include="Parentheses conversion.cpp" />
     <ClCompile Include="Perfect crime.cpp" />
     <ClCompile Include="Progress on the assignment.cpp" />
@@ -180,12 +183,14 @@
     <ClCompile Include="Rotate parentheses.cpp" />
     <ClCompile Include="Rotate the matrix border.cpp" />
     <ClCompile Include="Seesaw Partner.cpp" />
+    <ClCompile Include="Skill tree.cpp" />
     <ClCompile Include="String Compression.cpp" />
     <ClCompile Include="sum of consecutive subsequences.cpp" />
     <ClCompile Include="Table hash function.cpp" />
     <ClCompile Include="Tic-tac-toe alone.cpp" />
     <ClCompile Include="Triangular snail.cpp" />
     <ClCompile Include="Tuple.cpp" />
+    <ClCompile Include="[3rd] n-ary game.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
