@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="2 or fewer different bits.cpp" />
+    <ClCompile Include="A perfect square.cpp" />
     <ClCompile Include="Analog Clock.cpp" />
     <ClCompile Include="Archery competition.cpp" />
     <ClCompile Include="Billiards practice.cpp" />
@@ -155,6 +156,7 @@
     <ClCompile Include="Hotel waiting room.cpp" />
     <ClCompile Include="Integer pair between two circles.cpp" />
     <ClCompile Include="Interception system.cpp" />
+    <ClCompile Include="Length of visit.cpp" />
     <ClCompile Include="Light Path Cycle.cpp" />
     <ClCompile Include="Magic Elevator.cpp" />
     <ClCompile Include="Make the sum of two queues equal.cpp" />
@@ -167,6 +169,7 @@
     <ClCompile Include="Number of sums of consecutive subsequences.cpp" />
     <ClCompile Include="n^2 array slicing.cpp" />
     <ClCompile Include="Oil Drilling.cpp" />
+    <ClCompile Include="Parentheses conversion.cpp" />
     <ClCompile Include="Perfect crime.cpp" />
     <ClCompile Include="Progress on the assignment.cpp" />
     <ClCompile Include="pseudo cantor bit string.cpp" />
@@ -177,10 +180,12 @@
     <ClCompile Include="Rotate parentheses.cpp" />
     <ClCompile Include="Rotate the matrix border.cpp" />
     <ClCompile Include="Seesaw Partner.cpp" />
+    <ClCompile Include="String Compression.cpp" />
     <ClCompile Include="sum of consecutive subsequences.cpp" />
     <ClCompile Include="Table hash function.cpp" />
     <ClCompile Include="Tic-tac-toe alone.cpp" />
     <ClCompile Include="Triangular snail.cpp" />
+    <ClCompile Include="Tuple.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
