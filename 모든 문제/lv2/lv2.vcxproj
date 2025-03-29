@@ -190,7 +190,12 @@
     <ClCompile Include="Tic-tac-toe alone.cpp" />
     <ClCompile Include="Triangular snail.cpp" />
     <ClCompile Include="Tuple.cpp" />
+    <ClCompile Include="[1st] Cash.cpp" />
+    <ClCompile Include="[1st] Friends 4 Block.cpp" />
+    <ClCompile Include="[3rd] Compression.cpp" />
     <ClCompile Include="[3rd] n-ary game.cpp" />
+    <ClCompile Include="[3rd] Sort file names.cpp" />
+    <ClCompile Include="[3rd] That song just now.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

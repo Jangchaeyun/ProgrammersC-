@@ -207,5 +207,20 @@
     <ClCompile Include="[3rd] n-ary game.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="[3rd] Sort file names.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[3rd] Compression.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[3rd] That song just now.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[1st] Cash.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="[1st] Friends 4 Block.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
