@@ -127,8 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="air conditioning.cpp" />
+    <ClCompile Include="Avant-Garde Tiling.cpp" />
     <ClCompile Include="Choose a dice.cpp" />
+    <ClCompile Include="Mountain shape tiling.cpp" />
+    <ClCompile Include="Moving a Cart.cpp" />
     <ClCompile Include="n + 1 card game.cpp" />
+    <ClCompile Include="Number of counselors.cpp" />
     <ClCompile Include="Odd or even tree.cpp" />
     <ClCompile Include="Restoring the formula.cpp" />
     <ClCompile Include="Sealed Order.cpp" />
