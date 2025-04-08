@@ -127,19 +127,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2D coin flip.cpp" />
     <ClCompile Include="air conditioning.cpp" />
     <ClCompile Include="Avant-Garde Tiling.cpp" />
     <ClCompile Include="Choose a dice.cpp" />
     <ClCompile Include="Expressible binary tree.cpp" />
+    <ClCompile Include="Let%27s memorize the 10 ....cpp" />
+    <ClCompile Include="lighthouse.cpp" />
     <ClCompile Include="Maze escape command.cpp" />
     <ClCompile Include="Merge Tables.cpp" />
     <ClCompile Include="Mountain shape tiling.cpp" />
     <ClCompile Include="Moving a Cart.cpp" />
     <ClCompile Include="n + 1 card game.cpp" />
     <ClCompile Include="Number of counselors.cpp" />
+    <ClCompile Include="Number Typing Contest.cpp" />
     <ClCompile Include="Odd or even tree.cpp" />
     <ClCompile Include="Personnel evaluation.cpp" />
     <ClCompile Include="Restoring the formula.cpp" />
+    <ClCompile Include="Return to the unit.cpp" />
     <ClCompile Include="Sealed Order.cpp" />
     <ClCompile Include="Sum of a sequence of consecutive pulse subsequences.cpp" />
   </ItemGroup>

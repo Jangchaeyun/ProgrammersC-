@@ -60,5 +60,20 @@
     <ClCompile Include="Maze escape command.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Let%27s memorize the 10 ....cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Number Typing Contest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="lighthouse.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Return to the unit.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2D coin flip.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
