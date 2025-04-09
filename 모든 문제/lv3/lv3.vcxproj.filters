@@ -75,5 +75,20 @@
     <ClCompile Include="2D coin flip.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Archaeology%27s greatest discovery.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="countdown.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Deciding on a hiking course.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Studying for coding tests.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Disappearing foothold.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

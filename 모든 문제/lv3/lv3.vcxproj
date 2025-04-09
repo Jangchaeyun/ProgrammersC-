@@ -129,8 +129,12 @@
   <ItemGroup>
     <ClCompile Include="2D coin flip.cpp" />
     <ClCompile Include="air conditioning.cpp" />
+    <ClCompile Include="Archaeology%27s greatest discovery.cpp" />
     <ClCompile Include="Avant-Garde Tiling.cpp" />
     <ClCompile Include="Choose a dice.cpp" />
+    <ClCompile Include="countdown.cpp" />
+    <ClCompile Include="Deciding on a hiking course.cpp" />
+    <ClCompile Include="Disappearing foothold.cpp" />
     <ClCompile Include="Expressible binary tree.cpp" />
     <ClCompile Include="Let%27s memorize the 10 ....cpp" />
     <ClCompile Include="lighthouse.cpp" />
@@ -146,6 +150,7 @@
     <ClCompile Include="Restoring the formula.cpp" />
     <ClCompile Include="Return to the unit.cpp" />
     <ClCompile Include="Sealed Order.cpp" />
+    <ClCompile Include="Studying for coding tests.cpp" />
     <ClCompile Include="Sum of a sequence of consecutive pulse subsequences.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
