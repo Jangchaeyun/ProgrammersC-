@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="110 move.cpp" />
     <ClCompile Include="2D coin flip.cpp" />
     <ClCompile Include="air conditioning.cpp" />
     <ClCompile Include="Archaeology%27s greatest discovery.cpp" />
@@ -139,12 +140,16 @@
     <ClCompile Include="Disappearing foothold.cpp" />
     <ClCompile Include="Edit table.cpp" />
     <ClCompile Include="Expressible binary tree.cpp" />
+    <ClCompile Include="Insert Ads.cpp" />
     <ClCompile Include="Let%27s memorize the 10 ....cpp" />
     <ClCompile Include="lighthouse.cpp" />
+    <ClCompile Include="Make all zeros.cpp" />
+    <ClCompile Include="Matching Cards.cpp" />
     <ClCompile Include="Maze escape command.cpp" />
     <ClCompile Include="Merge Tables.cpp" />
     <ClCompile Include="Mountain shape tiling.cpp" />
     <ClCompile Include="Moving a Cart.cpp" />
+    <ClCompile Include="Multi-level toothbrush sales.cpp" />
     <ClCompile Include="n + 1 card game.cpp" />
     <ClCompile Include="Number of counselors.cpp" />
     <ClCompile Include="Number Typing Contest.cpp" />
