@@ -134,8 +134,10 @@
     <ClCompile Include="Avant-Garde Tiling.cpp" />
     <ClCompile Include="Bad user.cpp" />
     <ClCompile Include="Ball movement simulation.cpp" />
+    <ClCompile Include="Base station installation.cpp" />
     <ClCompile Include="Buildings that are not destroyed.cpp" />
     <ClCompile Include="Choose a dice.cpp" />
+    <ClCompile Include="Collecting stickers2.cpp" />
     <ClCompile Include="Construction of a racecourse.cpp" />
     <ClCompile Include="countdown.cpp" />
     <ClCompile Include="Crossing the stepping stones.cpp" />
@@ -149,8 +151,10 @@
     <ClCompile Include="Jewelry Shopping.cpp" />
     <ClCompile Include="Let%27s memorize the 10 ....cpp" />
     <ClCompile Include="lighthouse.cpp" />
+    <ClCompile Include="lock and key.cpp" />
     <ClCompile Include="Make all zeros.cpp" />
     <ClCompile Include="Matching Cards.cpp" />
+    <ClCompile Include="Matching Score.cpp" />
     <ClCompile Include="Maze escape command.cpp" />
     <ClCompile Include="Merge Tables.cpp" />
     <ClCompile Include="Mountain shape tiling.cpp" />
@@ -160,7 +164,10 @@
     <ClCompile Include="n + 1 card game.cpp" />
     <ClCompile Include="Number of counselors.cpp" />
     <ClCompile Include="Number Typing Contest.cpp" />
+    <ClCompile Include="Numbers game.cpp" />
     <ClCompile Include="Odd or even tree.cpp" />
+    <ClCompile Include="Optimal matrix multiplication.cpp" />
+    <ClCompile Include="Pathfinding game.cpp" />
     <ClCompile Include="Personnel evaluation.cpp" />
     <ClCompile Include="Pop the balloon.cpp" />
     <ClCompile Include="Restoring the formula.cpp" />
@@ -172,6 +179,11 @@
     <ClCompile Include="Studying for coding tests.cpp" />
     <ClCompile Include="Sum of a sequence of consecutive pulse subsequences.cpp" />
     <ClCompile Include="Transporting gold and silver.cpp" />
+    <ClCompile Include="[1st] Chuseok Traffic.cpp" />
+    <ClCompile Include="[1st] Shuttle bus.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Collecting stickers2" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
