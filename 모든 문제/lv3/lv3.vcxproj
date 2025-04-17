@@ -136,7 +136,9 @@
     <ClCompile Include="Ball movement simulation.cpp" />
     <ClCompile Include="Base station installation.cpp" />
     <ClCompile Include="Best set.cpp" />
+    <ClCompile Include="Bodybuilder trainer Ryan%27s worries.cpp" />
     <ClCompile Include="Buildings that are not destroyed.cpp" />
+    <ClCompile Include="camping.cpp" />
     <ClCompile Include="change.cpp" />
     <ClCompile Include="Choose a dice.cpp" />
     <ClCompile Include="Collecting stickers2.cpp" />
@@ -149,11 +151,13 @@
     <ClCompile Include="Expressible binary tree.cpp" />
     <ClCompile Include="Exterior inspection.cpp" />
     <ClCompile Include="First-in_First-out scheduling.cpp" />
+    <ClCompile Include="GPS.cpp" />
     <ClCompile Include="Insert Ads.cpp" />
     <ClCompile Include="Installation of columns and beams.cpp" />
     <ClCompile Include="Jewelry Shopping.cpp" />
     <ClCompile Include="Let%27s memorize the 10 ....cpp" />
     <ClCompile Include="lighthouse.cpp" />
+    <ClCompile Include="Little Friends Sichuan Province.cpp" />
     <ClCompile Include="lock and key.cpp" />
     <ClCompile Include="Make all zeros.cpp" />
     <ClCompile Include="Matching Cards.cpp" />
@@ -172,6 +176,7 @@
     <ClCompile Include="Optimal matrix multiplication.cpp" />
     <ClCompile Include="Overtime index.cpp" />
     <ClCompile Include="Pathfinding game.cpp" />
+    <ClCompile Include="pedestrian paradise.cpp" />
     <ClCompile Include="Personnel evaluation.cpp" />
     <ClCompile Include="Pop the balloon.cpp" />
     <ClCompile Include="Restoring the formula.cpp" />
