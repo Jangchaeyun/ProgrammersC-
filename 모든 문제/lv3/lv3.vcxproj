@@ -137,6 +137,7 @@
     <ClCompile Include="Base station installation.cpp" />
     <ClCompile Include="Best set.cpp" />
     <ClCompile Include="Bodybuilder trainer Ryan%27s worries.cpp" />
+    <ClCompile Include="Brian%27s Worries.cpp" />
     <ClCompile Include="Buildings that are not destroyed.cpp" />
     <ClCompile Include="camping.cpp" />
     <ClCompile Include="change.cpp" />

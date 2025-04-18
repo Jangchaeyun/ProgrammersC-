@@ -207,6 +207,9 @@
     <ClCompile Include="pedestrian paradise.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Brian%27s Worries.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Collecting stickers2" />
