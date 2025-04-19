@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77861B85-6842-41E0-A756-F761BC08BD23}|lv3.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\pedestrian paradise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77861B85-6842-41E0-A756-F761BC08BD23}|lv3.vcxproj|solutionrelative:pedestrian paradise.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77861B85-6842-41E0-A756-F761BC08BD23}|lv3.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\camping.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77861B85-6842-41E0-A756-F761BC08BD23}|lv3.vcxproj|solutionrelative:camping.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77861B85-6842-41E0-A756-F761BC08BD23}|lv3.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\Little Friends Sichuan Province.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77861B85-6842-41E0-A756-F761BC08BD23}|lv3.vcxproj|solutionrelative:Little Friends Sichuan Province.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77861B85-6842-41E0-A756-F761BC08BD23}|lv3.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\GPS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77861B85-6842-41E0-A756-F761BC08BD23}|lv3.vcxproj|solutionrelative:GPS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77861B85-6842-41E0-A756-F761BC08BD23}|lv3.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\Bodybuilder trainer Ryan\u0027s worries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{77861B85-6842-41E0-A756-F761BC08BD23}|lv3.vcxproj|solutionrelative:Bodybuilder trainer Ryan\u0027s worries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{77861B85-6842-41E0-A756-F761BC08BD23}|lv3.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\Brian\u0027s Worries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{77861B85-6842-41E0-A756-F761BC08BD23}|lv3.vcxproj|solutionrelative:Brian\u0027s Worries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "pedestrian paradise.cpp",
-              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\pedestrian paradise.cpp",
-              "RelativeDocumentMoniker": "pedestrian paradise.cpp",
-              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\pedestrian paradise.cpp",
-              "RelativeToolTip": "pedestrian paradise.cpp",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA0wCEAAAABAAAAAAAAAA==",
+              "Title": "Brian\u0027s Worries.cpp",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\Brian\u0027s Worries.cpp",
+              "RelativeDocumentMoniker": "Brian\u0027s Worries.cpp",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\Brian\u0027s Worries.cpp",
+              "RelativeToolTip": "Brian\u0027s Worries.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA0wE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T00:32:29.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "camping.cpp",
-              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\camping.cpp",
-              "RelativeDocumentMoniker": "camping.cpp",
-              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\camping.cpp",
-              "RelativeToolTip": "camping.cpp",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA0wC0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T00:31:01.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Little Friends Sichuan Province.cpp",
-              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\Little Friends Sichuan Province.cpp",
-              "RelativeDocumentMoniker": "Little Friends Sichuan Province.cpp",
-              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\Little Friends Sichuan Province.cpp",
-              "RelativeToolTip": "Little Friends Sichuan Province.cpp",
-              "ViewState": "AgIAAIcAAAAAAAAAAAA0wKYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T00:29:04.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GPS.cpp",
-              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\GPS.cpp",
-              "RelativeDocumentMoniker": "GPS.cpp",
-              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\GPS.cpp",
-              "RelativeToolTip": "GPS.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T00:25:47.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Bodybuilder trainer Ryan\u0027s worries.cpp",
-              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\Bodybuilder trainer Ryan\u0027s worries.cpp",
-              "RelativeDocumentMoniker": "Bodybuilder trainer Ryan\u0027s worries.cpp",
-              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\u002B\u002B\\\uBAA8\uB4E0 \uBB38\uC81C\\lv3\\Bodybuilder trainer Ryan\u0027s worries.cpp",
-              "RelativeToolTip": "Bodybuilder trainer Ryan\u0027s worries.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAA0wDEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-17T00:24:16.159Z",
+              "WhenOpened": "2025-04-18T01:12:36.329Z",
               "EditorCaption": ""
             }
           ]
