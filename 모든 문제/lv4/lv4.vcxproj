@@ -131,17 +131,22 @@
     <ClCompile Include="Block game.cpp" />
     <ClCompile Include="Buy cookies.cpp" />
     <ClCompile Include="Caving.cpp" />
+    <ClCompile Include="Correct number of parentheses.cpp" />
     <ClCompile Include="Counting even rows.cpp" />
+    <ClCompile Include="Edit terrain.cpp" />
     <ClCompile Include="Grid Flip Maze.cpp" />
     <ClCompile Include="Drop 1,2,3.cpp" />
     <ClCompile Include="Hotel room assignment.cpp" />
     <ClCompile Include="Matrices and Operations.cpp" />
     <ClCompile Include="Maze Escape.cpp" />
     <ClCompile Include="Minimize sales decline.cpp" />
+    <ClCompile Include="Muji%27s eating show live.cpp" />
     <ClCompile Include="Search lyrics.cpp" />
     <ClCompile Include="Terrain movement.cpp" />
     <ClCompile Include="Tree Trio Median.cpp" />
     <ClCompile Include="Twin Towers Forest.cpp" />
+    <ClCompile Include="word puzzle.cpp" />
+    <ClCompile Include="[3rd] Autocomplete.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
