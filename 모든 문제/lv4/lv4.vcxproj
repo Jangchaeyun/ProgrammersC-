@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="4th treble.cpp" />
     <ClCompile Include="Anti-cell.cpp" />
     <ClCompile Include="Block game.cpp" />
     <ClCompile Include="Buy cookies.cpp" />
@@ -144,6 +145,7 @@
     <ClCompile Include="Search lyrics.cpp" />
     <ClCompile Include="Terrain movement.cpp" />
     <ClCompile Include="Tree Trio Median.cpp" />
+    <ClCompile Include="Tube blind date.cpp" />
     <ClCompile Include="Twin Towers Forest.cpp" />
     <ClCompile Include="word puzzle.cpp" />
     <ClCompile Include="[3rd] Autocomplete.cpp" />
